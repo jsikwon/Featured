@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recycleview Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_image">Android Images</string>
+    <string name="titleText">Title Text</string>
+    <string name="detailText">Detail Text</string>
+    <string name="imageDesc">Clicked Image</string>
+</resources>
